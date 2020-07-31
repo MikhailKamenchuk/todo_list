@@ -1,5 +1,5 @@
 let tasks = [
-    { id: Math.random(), text: 'Buy milk', done: true },
+    { id: Math.random(), text: 'Buy milk', done: false },
     { id: Math.random(), text: 'Pick up Tom from airport', done: false },
     { id: Math.random(), text: 'Visit party', done: false },
     { id: Math.random(), text: 'Visit doctor', done: true },
